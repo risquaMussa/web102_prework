@@ -26,8 +26,8 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<!-- Replace this with whatever GIF tool you used! -->http://www.loom.com
+GIF created with ... https://www.loom.com/share/ab44e6b82b7444db8d4409d335694631?sid=24897164-0020-4cbc-9613-028d2626eb24 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
