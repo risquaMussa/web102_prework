@@ -73,3 +73,14 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+
+#unfunded-btn{
+    cursor: pointer;
+}
+#funded-btn{
+    cursor: pointer;
+}
+#all-btn{
+    cursor: pointer;
+}
